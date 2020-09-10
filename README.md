@@ -12,7 +12,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 
 #### REQUIRED (10pts)
-- [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
+- [X] (2pts) User sees an app icon on the home screen and a styled launch screen.
 - [x] (5pts) User can view and scroll through a list of movies now playing in theaters.
 - [x] (3pts) User can view the movie poster image for each movie.
 
@@ -24,7 +24,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 <img src="http://g.recordit.co/AFYW3bVfQx.gif" width=250><br>
 
-<img src="http://g.recordit.co/C0CfYpabep.gif" width=250><br>
 
 ### Notes
 There were some bugs when I was doing the assignment but I asked the slack channel and the discussion form and it's really helpful.
