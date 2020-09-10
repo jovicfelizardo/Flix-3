@@ -21,10 +21,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-
-<img src="http://g.recordit.co/AFYW3bVfQx.gif" width=250><br>
 <img src="http://g.recordit.co/MO0FFD6XVz.gif" width=250><br>
-
+<img src="http://g.recordit.co/AFYW3bVfQx.gif" width=250><br>
 
 ### Notes
 There were some bugs when I was doing the assignment but I asked the slack channel and the discussion form and it's really helpful.
